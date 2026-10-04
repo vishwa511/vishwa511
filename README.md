@@ -13,7 +13,7 @@
 <a href="https://drive.google.com/file/d/1DiC1v5nHC26Ng-dERZXfkB6nnTKUg_3g/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-0D1117?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/></a>
 <a href="https://www.leetcode.com/fuzion__51"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0D1117" alt="LeetCode"/></a>
 <a href="https://auth.geeksforgeeks.org/user/vkchintucca"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/></a>
-<a href="https://twitter.com/vishwajeetkr280"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://twitter.com/vishwajee51"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
 </div>
 
@@ -30,7 +30,7 @@ I'm a **Software Development Engineer** who likes the unglamorous parts of softw
 
 **Right now**
 
-- 🏢 SDE @ **[Company]** &nbsp;·&nbsp; working on async processing & scalable backend architecture
+- 🏢 SDE @ **Kaizan** &nbsp;·&nbsp; working on async processing & scalable backend architecture
 - 🌱 Learning **DevOps**: Docker → Kubernetes → CI/CD → infrastructure as code
 - 🎯 Grinding system design & DSA on LeetCode
 
@@ -39,10 +39,10 @@ I'm a **Software Development Engineer** who likes the unglamorous parts of softw
 
 **Background**
 
-- 🎓 Computer Science, **MNNIT Allahabad**
+- 🎓 **MNNIT Allahabad**
 - 🏆 Hackathons: **DEVJAM 2021** (AR web app) · **Hack36** (women's safety)
 - 🐙 Ran a beginner‑friendly **Hacktoberfest 2022** repo to help people land their first PR
-- 💬 Ask me about **Node.js, NestJS, TypeScript, system design**
+- 💬 Ask me about **Django, Node.js, NestJS, Python, TypeScript, system design**
 
 </td>
 </tr>
